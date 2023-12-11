@@ -1,3 +1,3 @@
 # Implementation-of-FPTree-Growth-and-Apriori-Algorithm
 
-Implementation of FPTree Algorithm and Apriori Algorithm for finding frequent itemsets
+Implementation of FPTree Growth Algorithm and Apriori Algorithm for finding frequent itemsets
